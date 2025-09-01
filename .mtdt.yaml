@@ -1,0 +1,7 @@
+project:
+  name: "DS Classification Project: Pima Diabetes"
+  description: Analysis of the Pima Diabetes data set, including a predictive model based on a decision tree classifier
+  github: https://github.com/kvn-dtrx/ds-classification-project_pima-diabetes
+  authors:
+    - name: Kvn Dtrx
+      mail: kvn.dtrx+git@protonmail.ch
