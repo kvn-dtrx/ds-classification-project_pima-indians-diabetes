@@ -2,7 +2,7 @@
 
 ## `adap-diabetes.pdf`
 
-Accompanying paper providing a brief elucidation of the dataset.
+Accompanying paper providing a brief elucidation of the data set.
 
 ## `assignment.ipynb`
 

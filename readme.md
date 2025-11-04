@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-This repository presents an analysis of a dataset concerning diabetes among the [Pima](https://en.wikipedia.org/wiki/Akimel_O%27odham) people based near Phoenix, Arizona. The dataset is retrieved from the [*neue fische*](https://www.neuefische.de) database. It is very similar to <https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database> but contains contaminations deliberatively injected by the instructors for exercise purposes.
+This repository presents an analysis of a data set concerning diabetes among the [Pima](https://en.wikipedia.org/wiki/Akimel_O%27odham) people based near Phoenix, Arizona. The data set is retrieved from the [*neue fische*](https://www.neuefische.de) database. It is very similar to <https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database> but contains contaminations deliberatively injected by the instructors for exercise purposes.
 
 For more details about the assignment, please refer to [this file](./archive/assignment.ipynb).
 
